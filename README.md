@@ -1,4 +1,4 @@
-public Map<String,String> xmlInfo(String result){
+	public Map<String,String> xmlInfo(String result){
 		Map<String,String> map = new HashMap<String,String>();
 		try{
 			SAXReader reader = new SAXReader();
